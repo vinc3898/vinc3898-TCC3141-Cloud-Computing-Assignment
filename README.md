@@ -24,7 +24,7 @@ Below is some Introduction about how to use our BMI calculator and what function
 <img src="https://user-images.githubusercontent.com/87030020/140647200-26bbd3d8-f0ff-4351-8490-70933fe62183.png" width="350" height="200" />
 
 1. In order to use this app, you will have to register for an account first, you can just create an account by entering your username and password. Once you complete all this step, you should be directly bring into the main page. 
-![Screenshot_20211107-162743__01](https://user-images.githubusercontent.com/87030020/140647047-51827f3e-2702-4b9b-b21e-7364f1b5e4e8.jpg)
+<img src="https://user-images.githubusercontent.com/87030020/140647047-51827f3e-2702-4b9b-b21e-7364f1b5e4e8.jpg" width="300" height="800" />
 
 2. In this main page, you will be asked for entering 2 attribute which is Height and Weight, in order to calculate your BMI, once you done enter the attribute, you should press the Calculate Bmi button and you shold get a result like this.  
 ![Screenshot_20211107-170545__01](https://user-images.githubusercontent.com/87030020/140647102-2a8fef4b-eed6-43cd-8701-b9618923db46.jpg)
