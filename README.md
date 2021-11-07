@@ -21,7 +21,7 @@ Our project is a BMI calculator who can help people to detect their current BMI.
 # User Guidelines
 Below is some Introduction about how to use our BMI calculator and what functions included. 
 
-<img src="https://user-images.githubusercontent.com/87030020/140647200-26bbd3d8-f0ff-4351-8490-70933fe62183.png" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/87030020/140647200-26bbd3d8-f0ff-4351-8490-70933fe62183.png" width="250" height="200" />
 
 1. In order to use this app, you will have to register for an account first, you can just create an account by entering your username and password. Once you complete all this step, you should be directly bring into the main page. 
 ![Screenshot_20211107-162743__01](https://user-images.githubusercontent.com/87030020/140647047-51827f3e-2702-4b9b-b21e-7364f1b5e4e8.jpg)
