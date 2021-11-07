@@ -27,13 +27,13 @@ Below is some Introduction about how to use our BMI calculator and what function
 <img src="https://user-images.githubusercontent.com/87030020/140647047-51827f3e-2702-4b9b-b21e-7364f1b5e4e8.jpg" width="400" height="800" />
 
 2. In this main page, you will be asked for entering 2 attribute which is Height and Weight, in order to calculate your BMI, once you done enter the attribute, you should press the Calculate Bmi button and you shold get a result like this.  
-![Screenshot_20211107-170545__01](https://user-images.githubusercontent.com/87030020/140647102-2a8fef4b-eed6-43cd-8701-b9618923db46.jpg)
+<img src="https://user-images.githubusercontent.com/87030020/140647102-2a8fef4b-eed6-43cd-8701-b9618923db46.jpg" width="400" height="800" />
 
 3. In the pop up box, it will show your BMI result and your current status. You also can click on the suggest button to having our another function. 
-![Screenshot_20211107-162802__01](https://user-images.githubusercontent.com/87030020/140647227-97d42af2-b7e1-4d0f-b9fa-a80bf4f12c16.jpg)
+<img src="https://user-images.githubusercontent.com/87030020/140647227-97d42af2-b7e1-4d0f-b9fa-a80bf4f12c16.jpg" width="400" height="800" />
 
 4. In this suggest section, it will give you some advice based on your latest BMI record. 
-![Screenshot_20211107-163125__01](https://user-images.githubusercontent.com/87030020/140647128-e1e1e0d7-cc8a-41a3-8505-619b550d9ddc.jpg)
+<img src="https://user-images.githubusercontent.com/87030020/140647128-e1e1e0d7-cc8a-41a3-8505-619b550d9ddc.jpg" width="400" height="800" />
 
 5. Of course, this all just the core function about our project, there is still more for you to explore in our app, enjoy and stay healthy! 
 
